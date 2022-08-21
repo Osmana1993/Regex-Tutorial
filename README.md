@@ -67,4 +67,4 @@ Lookahead and lookbehind, collectively called “lookaround”, are zero-length 
 
 ## Author
 
-vist my github link: https://github.com/Osmana1993/Regex-Tutorial
+vist my gist github link: https://gist.github.com/254b6ccc072d3334d0b4534a35c2aa50.git
